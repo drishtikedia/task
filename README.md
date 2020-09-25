@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Dependencies required - 
-bulma => for materials ui
-react-router-dom => for navigation
-google-maps-react => for handling google maps api calls
+bulma => for materials ui, 
+react-router-dom => for navigation,
+google-maps-react => for handling google maps api calls,
 node-sass => for styling further
 
 
