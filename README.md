@@ -1,22 +1,21 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dependencies required - 
+bulma => for materials ui
+react-router-dom => for navigation
+google-maps-react => for handling google maps api calls
+node-sass => for styling further
+
+
+
 
 ## Available Scripts
 
 In the project directory, you can run:
 (Using Visual Studio Code or your terminal)
- 
-### `yarn install`
 
-After this , 
-install the dependencies
-for materials ui =>
-### `yarn add bulma`
-for navigation=>
-### `yarn add react-router-dom`
-for handling google maps api calls =>
-### `yarn add google-maps-react`
-for styling further =>
-### `yarn add node-sass`
+ 
+To install the dependencies
+### `yarn install`
 
 to view the application =>
 ### `yarn start`
